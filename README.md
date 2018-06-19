@@ -1,1 +1,1 @@
-# Uncertainty-and-Data-Science
+# Uncertainty and Data Science
