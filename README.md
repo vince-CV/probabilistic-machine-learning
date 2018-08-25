@@ -4,3 +4,5 @@ The practice will be focused more on practical aspects of uncertainty quantifica
 Topics that will be covered are related to:
 
 Key words: Bayesian analysis, Uncertainty quantification, Probabilistic programming, Data analysis, Modeling, Monte Carlo analysis, Bayesian machine learning, Measurement, Errors...
+
+Created by: Xunzhe Wen
